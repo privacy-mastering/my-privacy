@@ -12,16 +12,18 @@ Even if somebody knows your login/password pair – 2FA protects your data, beca
 
 What is 2FA? In most cases, it is just OTP (One Time Password) that depends on a shared secret (that is known for server and clients) and a current time; all generated OTP may be applied only during a restricted time
 
-For example:
+For example
 
-* SMS – when a server sends OTP by a shared "secret" (phone number), it is not a very good way, just because somebody may steal your phone and view the content of the SMS on a locked screen
-* Email – like SMS, but less secure, and the content may be viewed on a locked screen, and your email may be hacked easily
-* OTP Applications – are a perfect choice for most people, for example, https://googleauthenticator.net/ or https://authy.com/; it's impossible to catch OTP because there is no sending, it's not possible to view the code on a lock screen;
-* U2F (Universal 2nd Factor) – something more difficult than OTP, usually it is a unique cryptography module in a dedicated device like yubico or a chip in your phone;
+| Method                       | Description                                                                                                                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `SMS`                        | when a server sends OTP by a shared "secret" (phone number), it is not a very good way, just because somebody may steal your phone and view the content of the SMS on a locked screen                                        |
+| `Email`                      | like SMS, but less secure, and the content may be viewed on a locked screen, and your email may be hacked easily                                                                                                             |
+| `OTP Applications`           | are a perfect choice for most people, for example, https://googleauthenticator.net/ or https://authy.com/; it's impossible to catch OTP because there is no sending, and it's not possible to view the code on a lock screen |
+| `U2F (Universal 2nd Factor)` | something more difficult than OTP, usually it is a unique cryptography module in a dedicated device like yubico or a chip in your phone                                                                                      |
 
 **How to**
 
-In a common way you have to search "\<name of your website> + 2FA" and follow the instructions
+In a common way, you have to search for"`<name of your website> + 2FA`" and follow the instructions
 
 But I'll try to help you with the most popular services
 
@@ -41,7 +43,7 @@ That's all, seriously!&#x20;
 
 Your account is very protected now
 
-Research more possibilities on this page and think about one – what will you do when you lost 2FA? Make all possible backups!
+Research more possibilities on this page and think about one – what will you do when you lost 2FA? Make all possible backups! Add more devices as 2FA
 
 **Another useful links for popular services**
 
