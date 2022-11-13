@@ -1,7 +1,9 @@
 # Simple privacy rules for internet
 
-There are basic descriptions of the main points that you have to pay attention using the Internet
+{% content-ref url="passwords.md" %}
+[passwords.md](passwords.md)
+{% endcontent-ref %}
 
-Use the left menu for navigation
-
-And use Github for discussions/suggestions
+{% content-ref url="2fa.md" %}
+[2fa.md](2fa.md)
+{% endcontent-ref %}
