@@ -1,0 +1,6 @@
+---
+description: disk encryption
+---
+
+# Laptops
+
