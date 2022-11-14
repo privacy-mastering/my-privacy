@@ -2,5 +2,5 @@
 description: email relay services
 ---
 
-# Emails sharing
+# 📧 Emails sharing
 

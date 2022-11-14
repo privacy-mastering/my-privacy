@@ -2,5 +2,5 @@
 description: disk encryption
 ---
 
-# Laptops
+# 💻 Laptops
 

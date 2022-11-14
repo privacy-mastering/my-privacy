@@ -2,5 +2,5 @@
 description: vpn/dns/router
 ---
 
-# Internet connection
+# 🌐 Internet connection
 

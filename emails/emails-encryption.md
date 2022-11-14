@@ -2,5 +2,5 @@
 description: PGP, disposable emails
 ---
 
-# Emails encryption
+# 👾 Emails encryption
 

@@ -4,7 +4,7 @@ description: >-
   of identification to access resources and data.
 ---
 
-# 2FA
+# 🔑 2FA
 
 **Motivation**
 

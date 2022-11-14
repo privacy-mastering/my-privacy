@@ -2,7 +2,7 @@
 description: You must use a password manager
 ---
 
-# Passwords
+# 🗝 Passwords
 
 **Motivation**
 
