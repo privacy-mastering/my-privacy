@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Simple privacy rules for internet
 
 There are basic descriptions of the main points that you have to pay attention using the Internet
