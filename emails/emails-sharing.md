@@ -58,21 +58,15 @@ But SimpleLogin:
 
 * Allows many email targets
 * Provides a comfortable dashboard for all generated emails
-* And most important - Allows encrypt all forwarded emails to protect their content, for example - emails from banks, [read more here](emails-encryption.md)
+* Allows encrypt all forwarded emails to protect their content, for example - emails from banks, [read more here](emails-encryption.md)
 * If you have a paid [proton.me](https://proton.me) account – you will get unlimited features, but a free plan is good too, at least to try
 * You may use your own domain
 
 This service is a part of [proton.me](https://proton.me/blog/proton-and-simplelogin-join-forces) – full trust!
 
-For mobile use, you may set up [the mobile application](https://simplelogin.io/blog/mobile/) or authorize in their website (the app is more comfortable)
+For mobile use, you may set up [the mobile application](https://simplelogin.io/blog/mobile/) or authorize on their website (the app is more comfortable)
 
 
-
-
-
-
-
-* Encrypt&#x20;
 
 
 
