@@ -40,7 +40,7 @@ Some experience
 
 [Qwertycards - for easy to remember very strong passwords](https://www.qwertycards.com/) - interesting concept for paranoic
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Your secret may be a simple word (or not) and all your accouns will be protected by a real uniq password
 
@@ -56,7 +56,7 @@ Uses encryption module of mobile phone (because you are using biometry authentic
 
 Works good in case, when login and password are on the form together, and provides the easies way for setup 2FA
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [Bitwarden Open Source Password Manager | Bitwarden](https://bitwarden.com/)
 

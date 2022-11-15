@@ -19,3 +19,10 @@
 * [🍎 Ios](mobile-devices/ios.md)
 * [🤖 Android](mobile-devices/android.md)
 * [💻 Laptops](mobile-devices/laptops.md)
+
+## Group 1
+
+* [Browsers](group-1/browsers/README.md)
+  * [🦊 Firefox](group-1/browsers/firefox.md)
+  * [Google chrome](group-1/browsers/google-chrome.md)
+  * [Microsoft Edge](group-1/browsers/microsoft-edge.md)
