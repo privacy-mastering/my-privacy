@@ -20,9 +20,10 @@
 * [🤖 Android](mobile-devices/android.md)
 * [💻 Laptops](mobile-devices/laptops.md)
 
-## Group 1
+## Browsers
 
-* [Browsers](group-1/browsers/README.md)
-  * [🦊 Firefox](group-1/browsers/firefox.md)
-  * [Google chrome](group-1/browsers/google-chrome.md)
-  * [Microsoft Edge](group-1/browsers/microsoft-edge.md)
+* [🦆 Duckduckgo](browsers/duckduckgo.md)
+* [🦊 Firefox](browsers/firefox.md)
+* [🟢 Google chrome](browsers/google-chrome.md)
+* [🟠 Microsoft Edge](browsers/microsoft-edge.md)
+* [Useful extensions](browsers/useful-extensions.md)
