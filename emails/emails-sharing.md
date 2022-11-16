@@ -30,13 +30,13 @@ Duckduckgo is a search engine that provides maximum privacy
 
 As well it developed an email-relay service and comfortable browsers extension to generate a new email address for each new registration via any website, see examples below&#x20;
 
-![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (3) (1).png>)
 
 And seriously - now it's your unique address for the selected website, and if you receive spam to this one – you know who shared it
 
 Ok, how the forwarded email looks:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: there we see an actual service's email, original content and the "More" link, which will say what tracking links were removed from the email content
 
