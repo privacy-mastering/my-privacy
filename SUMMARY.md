@@ -9,10 +9,7 @@
 
 * [📧 Emails sharing](emails/emails-sharing.md)
 * [👾 Emails encryption](emails/emails-encryption.md)
-
-***
-
-* [💳 Online shopping](online-shopping.md)
+* [💳 Online shopping](emails/online-shopping.md)
 
 ## Mobile devices
 
