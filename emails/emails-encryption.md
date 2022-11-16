@@ -1,5 +1,7 @@
 ---
-description: PGP, disposable emails
+description: >-
+  How to protect the content of your emails after hackers receive access to your
+  mailbox
 ---
 
 # 👾 Emails encryption

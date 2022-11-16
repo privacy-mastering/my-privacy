@@ -1,5 +1,5 @@
 ---
-description: You must use a password manager
+description: The best practices how to secure passwords
 ---
 
 # 🗝 Passwords

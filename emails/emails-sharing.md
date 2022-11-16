@@ -1,5 +1,5 @@
 ---
-description: email relay services
+description: How to protect your emails agains data leaks
 ---
 
 # 📧 Emails sharing

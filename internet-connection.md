@@ -1,5 +1,5 @@
 ---
-description: vpn/dns/router
+description: How to secure your Internet connection
 ---
 
 # 🌐 Internet connection
