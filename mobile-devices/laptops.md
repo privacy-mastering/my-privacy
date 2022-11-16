@@ -1,5 +1,5 @@
 ---
-description: disk encryption
+description: disk encryption, antiviruses
 ---
 
 # 💻 Laptops
