@@ -20,11 +20,11 @@ This document is about a case when somebody already received access to your mail
 
 Let's talk about how to protect the content of your emails when somebody has access to your mailbox **already**
 
-#### **PGP**
+#### Encryption incoming emails
 
 In a common case, any online service sends you emails as is – anyone may read your inbox
 
-Many email clients support PGP-encrypted emails, and below is my easiest description of how to do it even if online service does not support PGP encryption
+Many email clients support [PGP-encrypted](https://www.openpgp.org/) emails, and below is my easiest description of how to do it even if online service does not support PGP encryption
 
 1. Register here [https://app.simplelogin.io](https://app.simplelogin.io/dashboard/)
    1. Add your main email here [https://app.simplelogin.io/dashboard/mailbox](https://app.simplelogin.io/dashboard/mailbox)
@@ -61,6 +61,8 @@ If you wanna save the possibility to read letters from mobile phones I may recom
 
 For desktop users, a good variant – thunderbird.net, just import your private key to the settings
 
+Other applications you may find here [https://www.openpgp.org/software/](https://www.openpgp.org/software/)
+
 **Just remember:**
 
 1. If you lost your private key – all your emails are useless trash, and there is no way to decrypt them
@@ -71,3 +73,22 @@ There is an interesting possibility provided by the proton.me email clients (web
 
 So, I just showed a comfortable way for most of us I believe you will encrypt only the most important emails, to check them from protected devices For other services, a basic forwarding is enough
 
+#### Outgoing emails
+
+Sometimes you need to send secret info or documents by email
+
+Most typical users just attach documents or secrets to the letter and that's all
+
+But maybe the receiver does not think about security like you, so how to protect your data:
+
+1. You may use a "Confidential emails" mode in Gmail with an expiration period, at least the letter will be deleted automatically in a few days, read more here [https://support.google.com/mail/answer/7674059?hl=en#zippy=%2Cim-using-another-email-account%2Cim-using-a-gmail-account](https://support.google.com/mail/answer/7674059?hl=en#zippy=%2Cim-using-another-email-account%2Cim-using-a-gmail-account)
+2. Do not attach documents to emails, how to:
+   1. Compress documents to archive with encryption, read more here [https://www.technewstoday.com/password-protect-a-zip-file/](https://www.technewstoday.com/password-protect-a-zip-file/)
+   2. Upload this document to google drive and get a link to share
+   3. Insert to email link to the document and the password (or pass the password by phone)
+   4. Add to a calendar notification, that you have to close access to the document by link
+3. And a very good choice - protom.me
+   1. There are possible to create a password-protected email [https://proton.me/support/password-protected-emails](https://proton.me/support/password-protected-emails)
+   2. Or email with expiration [https://proton.me/support/expiration](https://proton.me/support/expiration)
+   3. Or use proton drive for files with pass/expiration date [https://proton.me/blog/file-sharing-proton-drive](https://proton.me/blog/file-sharing-proton-drive)
+4. As well I have to mention the 1password possibility to share data for the first access only – after file downloading link fill expire automatically, it's a very good feature
