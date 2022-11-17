@@ -11,7 +11,7 @@ What will happen if somebody (an attacker) receives access to your emails?
 Answers:
 
 1. Your online-social profiles are compromised – ok, not very good, but maybe it's not critical
-2. In the usual case, the attacker may restore access to a lot of online services, like – bookings, rentals, online subscriptions, etc... Maybe it's ok still – you may just block your banking cards and continue live (if disclosed information is not a big secret)
+2. In the usual case, the attacker may restore access to a lot of online services, like – bookings, rentals, online subscriptions, dating apps, etc... Maybe it's ok still – you may just block your banking cards and continue live (if disclosed information is not a big secret)
 3. But what about medical and governmental services? For someone disclosure, a piece of relevant information is a very sensitive action, for example, – visits to a phycologist or results of an analysis. Already warmer?
 4. Bank and online exchange services – your bank statements, individual payments info, accounts info, balances, and all historical data are accessible to everyone who has access to your emails – it's very critical for someone, and I know it. Because sometimes it's enough to restore/receive full access to your money
 5. Emails with your documents – some of you send/receive identity documents by email or just save them in the mailbox (like a draft) just in case, yeah?

@@ -46,7 +46,7 @@ And more – Deactivate button, to delete this email
 
 There are no reasons not to trust Duckduckgo, but it's a free service
 
-For use via mobile devices – you have to setup a mobile browser and open it each time [https://duckduckgo.com/app](https://duckduckgo.com/app)
+For use via mobile devices – you have to set up a mobile browser and open it each time [https://duckduckgo.com/app](https://duckduckgo.com/app)
 
 #### SimpleLogin
 
@@ -57,9 +57,11 @@ Duckduckgo just provides you email relay for a one address
 But SimpleLogin:
 
 * Allows many email targets
+  * for example, you may set up forwarding from your alias@simplelogin.io to your Gmail and Hotmail accounts at the same time
+  * it's useful in case if when you lost access to your Gmail (or Hotmail)
 * Provides a comfortable dashboard for all generated emails
 * Allows encrypt all forwarded emails to protect their content, for example - emails from banks, [read more here](emails-encryption.md)
-* If you have a paid [proton.me](https://proton.me) account – you will get unlimited features, but a free plan is good too, at least to try
+* If you have a paid [proton.me](https://proton.me) account – you will get unlimited features, but a free plan is good too
 * You may use your own domain
 
 This service is a part of [proton.me](https://proton.me/blog/proton-and-simplelogin-join-forces) – full trust!
