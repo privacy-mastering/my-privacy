@@ -13,9 +13,9 @@
 
 ## Mobile devices
 
+* [💻 Laptops](mobile-devices/laptops.md)
 * [🍎 Ios](mobile-devices/ios.md)
 * [🤖 Android](mobile-devices/android.md)
-* [💻 Laptops](mobile-devices/laptops.md)
 
 ## Browsers
 
@@ -24,3 +24,7 @@
 * [🟢 Google chrome](browsers/google-chrome.md)
 * [🟠 Microsoft Edge](browsers/microsoft-edge.md)
 * [Useful extensions](browsers/useful-extensions.md)
+
+***
+
+* [Backups](backups.md)
