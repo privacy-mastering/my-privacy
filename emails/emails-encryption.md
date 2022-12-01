@@ -59,9 +59,12 @@ Mailvelope helps to decrypt letters automatically
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Mailvelope (or k9mail/thunderbird) -> decrypts email content by your local key</p></figcaption></figure>
 
-If you wanna save the possibility to read letters from mobile phones I may recommend [https://k9mail.app/](https://k9mail.app/) for Android users ([K-9 Mail is now part of the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)[)](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
+If you wanna save the possibility to read letters from mobile phones I may recommend:&#x20;
 
-For desktop users, a good variant – thunderbird.net, just import your private key to the settings
+* [k9mail](https://k9mail.app/) for Android users ([K-9 Mail is now part of the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)[)](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
+* [FairEmail](https://email.faircode.eu/) – has all possibilities of k9mail and a lot of settings, but some additional possibilities are paid (it's not a subscription, a one-time purchase)
+
+For desktop users, a good variant – the [thunderbird](https://www.thunderbird.net/), just import your private key to the settings
 
 Other applications you may find here [https://www.openpgp.org/software/](https://www.openpgp.org/software/)
 

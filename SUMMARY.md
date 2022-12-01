@@ -9,7 +9,7 @@
 
 * [📧 Emails sharing](emails/emails-sharing.md)
 * [👾 Emails encryption](emails/emails-encryption.md)
-* [💳 Online shopping](emails/online-shopping.md)
+* [💳 Banking cards / shopping](emails/banking-cards-shopping.md)
 
 ## Mobile devices
 
@@ -19,11 +19,11 @@
 
 ## Browsers
 
-* [🦆 Duckduckgo](browsers/duckduckgo.md)
-* [🦊 Firefox](browsers/firefox.md)
 * [🟢 Google chrome](browsers/google-chrome.md)
+* [🦊 Firefox](browsers/firefox.md)
+* [🦆 Duckduckgo](browsers/duckduckgo.md)
 * [🟠 Microsoft Edge](browsers/microsoft-edge.md)
-* [Useful extensions](browsers/useful-extensions.md)
+* [🎒 Useful extensions](browsers/useful-extensions.md)
 
 ***
 
