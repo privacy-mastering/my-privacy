@@ -4,18 +4,22 @@
 * [🗝 Passwords](passwords.md)
 * [🔑 2FA](2fa.md)
 * [🌐 Internet connection](internet-connection.md)
+* [💳 Banking cards / shopping](banking-cards-shopping.md)
 
 ## Emails
 
 * [📧 Emails sharing](emails/emails-sharing.md)
 * [👾 Emails encryption](emails/emails-encryption.md)
-* [💳 Banking cards / shopping](emails/banking-cards-shopping.md)
 
 ## Mobile devices
 
 * [💻 Laptops](mobile-devices/laptops.md)
 * [🍎 Ios](mobile-devices/ios.md)
 * [🤖 Android](mobile-devices/android.md)
+
+***
+
+* [🍀 Backups](backups.md)
 
 ## Browsers
 
@@ -24,7 +28,3 @@
 * [🦆 Duckduckgo](browsers/duckduckgo.md)
 * [🟠 Microsoft Edge](browsers/microsoft-edge.md)
 * [🎒 Useful extensions](browsers/useful-extensions.md)
-
-***
-
-* [Backups](backups.md)
