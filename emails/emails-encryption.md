@@ -61,8 +61,8 @@ Mailvelope helps to decrypt letters automatically
 
 If you wanna save the possibility to read letters from mobile phones I may recommend:&#x20;
 
-* [k9mail](https://k9mail.app/) for Android users ([K-9 Mail is now part of the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)[)](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
-* [FairEmail](https://email.faircode.eu/) – has all possibilities of k9mail and a lot of settings, but some additional possibilities are paid (it's not a subscription, a one-time purchase)
+* [k9mail](https://k9mail.app/) for Android users ([K-9 Mail is now part of the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)[)](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html); this client is very simple in usage
+* [FairEmail](https://email.faircode.eu/) – has all possibilities of k9mail and a lot of settings, but some additional possibilities are paid (it's not a subscription, a one-time purchase); for example, block access to the email client by pin or fingerprint is paid, but it is a very useful functionality!
 
 For desktop users, a good variant – the [thunderbird](https://www.thunderbird.net/), just import your private key to the settings
 
